@@ -1,16 +1,37 @@
-# React + Vite
+# 🌟 ONG Fictícia - Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![React](https://img.shields.io/badge/React-17.0.2-blue?logo=react&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-3.3.2-blue?logo=tailwind-css&logoColor=white) 
+![License](https://img.shields.io/badge/License-MIT-green)
 
-Currently, two official plugins are available:
+Uma **landing page moderna e responsiva** criada para uma ONG fictícia, com seções de doação, depoimentos e serviços prestados. Desenvolvida com **React** e **Tailwind CSS**, com foco em acessibilidade, design limpo e experiência do usuário.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🔗 Demo
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Veja o projeto ao vivo no [Vercel](https://seu-projeto.vercel.app)  
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📝 Funcionalidades
+
+- **Seção de Doação:** Facilita contribuições e apoio à ONG.  
+- **Depoimentos:** Espaço para mostrar experiências e histórias de quem foi beneficiado.  
+- **Serviços Prestados:** Lista clara dos serviços oferecidos.  
+- **Responsividade:** Funciona em dispositivos móveis, tablets e desktops.  
+- **Design moderno:** Cores suaves, tipografia legível e ícones interativos.  
+
+---
+
+## 🚀 Tecnologias utilizadas
+
+- [React](https://reactjs.org/)  
+- [Tailwind CSS](https://tailwindcss.com/)  
+- [Font Awesome](https://fontawesome.com/)  
+- JavaScript moderno (ES6+)  
+
+---
+
+## 📂 Estrutura do projeto
+
