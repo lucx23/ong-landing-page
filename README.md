@@ -34,4 +34,11 @@ Veja o projeto ao vivo no [Vercel](https://seu-projeto.vercel.app)
 ---
 
 ## 📂 Estrutura do projeto
+├── public/           # Arquivos públicos (imagens, ícones, favicon)
+├── src/
+│   ├── components/   # Componentes reutilizáveis (Footer, Header, Cards etc)
+│   ├── App.jsx       # Componente principal
+│   └── index.jsx     # Ponto de entrada
+├── package.json
+└── README.md
 
