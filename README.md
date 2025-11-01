@@ -10,7 +10,7 @@ Uma **landing page moderna e responsiva** criada para uma ONG fictícia, com se�
 
 ## 🔗 Demo
 
-Veja o projeto ao vivo no [Vercel](https://seu-projeto.vercel.app)  
+Veja o projeto ao vivo no [Vercel](https://ong-landing-page.vercel.app/)  
 
 ---
 
